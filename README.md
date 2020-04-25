@@ -8,6 +8,7 @@ Can run in background as well. Just press Ctrl+F11 take screenshot
 
 ### quick start
 `pip install -r requirements.txt`
+
 `python screenshot.py`
 
 It looks like this: 
